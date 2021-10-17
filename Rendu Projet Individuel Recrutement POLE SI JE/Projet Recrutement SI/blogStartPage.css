@@ -1,0 +1,29 @@
+form{
+	border-style:outset;
+	border-width: 2px;
+	border-color: gray;
+	padding: 15px;
+	background: lightblue;
+	margin-bottom: 5px;
+}
+p{
+	border-style:outset;
+	border-width: 2px;
+	border-color: gray;
+	padding: 15px;
+	background: lightblue;
+}
+h1{
+	color: black;
+	text-align: center;
+	margin-bottom: 10px;
+}
+#options{
+	border-style:outset;
+	border-width: 2px;
+	border-color: gray;
+	padding: 15px;
+	background: lightblue;
+	margin-bottom: 5px;
+}
+

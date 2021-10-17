@@ -1,0 +1,50 @@
+body{
+	background:  linear-gradient(to top, deepskyblue, floralWhite);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	font-family: "consolas", sans-serif;
+	display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+	color: black;
+	text-align: center;
+	margin-bottom: 50px;
+}
+form{
+	border-style:outset;
+	border-width: 2px;
+	border-color: gray;
+	padding: 15px;
+}
+input[type="text"], input[type="password"], input[type="email"], input[type="date"]{
+	width: 100%;
+	padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 1px solid black;
+}
+input[type=button], input[type=submit], input[type=reset] {
+  background-color: white;
+  border: none;
+  color: black;
+  padding: 10px 32px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+  font-size: 15px;
+}
+input[type=radio]{
+	margin: 15px;
+}
+label{
+	margin-bottom: 20px;
+	font-size: 20px;
+}
+.connectMode{
+	margin-top: 50px;
+	font-size: 20px;
+	text-align: center;
+}

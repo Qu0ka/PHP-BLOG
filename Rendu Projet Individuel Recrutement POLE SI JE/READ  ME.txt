@@ -1,0 +1,1 @@
+J'ai utilisé mamp pour le projet, il faut remove le 2nd 'root' dans blogStartPage.php ligne 16 et ligne 5 dans update.php si on utilise XAMP
